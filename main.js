@@ -43,6 +43,8 @@ class Member {
     }
 } 
 
+
+
 Parent = new Member("Mustafa");
 
 console.log(Parent.object.innerHTML)
